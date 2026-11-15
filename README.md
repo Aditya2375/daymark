@@ -1,5 +1,7 @@
 # daymark
 
+[Live demo](https://aditya2375.github.io/daymark/)
+
 An intraday seasonality atlas. Java aggregates historical one-minute bars into a clock-time view of price variation and share volume. A dependency-free browser app lets you compare the ten days behind each average.
 
 ## What it does
