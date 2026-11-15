@@ -1,0 +1,34 @@
+{
+  "source": "FirstRate Data free samples",
+  "sample_start": "2026-11-02",
+  "sample_end": "2026-11-13",
+  "downloaded": "2026-11-15",
+  "timestamp_convention": "US Eastern (EST/EDT), bar start",
+  "source_license": "https://firstratedata.com/about/license",
+  "raw_redistributed": false,
+  "result_sha256": "94cbaa7058b00a466f12f3a759cb94c391e415288da68c2a20f30135eb09e8cd",
+  "inputs": [
+    {
+      "asset": "SPY",
+      "url": "https://x01.frd-data.com/firstratedata_sample_SPY.zip",
+      "member": "SPY_1min.csv",
+      "zip_sha256": "eb450195f7fd679c320233a042b51efd09f23a09e2a39bf067fc06d9fea5d0b8",
+      "csv_sha256": "c6b0a313287cfe9d589193f68b17edcd5c9468bfd1fef528f3fa20d06d8e7bd9",
+      "csv_rows": 9304,
+      "regular_session_rows": 3900,
+      "complete_sessions": 10,
+      "excluded_incomplete_sessions": 0
+    },
+    {
+      "asset": "AAPL",
+      "url": "https://x01.frd-data.com/firstratedata_sample_AAPL.zip",
+      "member": "AAPL_1min.csv",
+      "zip_sha256": "faeee94cf66bcba1bc84408e0d75bf73cdd76c0a797c8c1afb2518b5f3d9f9c0",
+      "csv_sha256": "97f67d66c3d4e2c9892de3d937722b8bf80cc0ab864a25bfbd7b466b0440f0db",
+      "csv_rows": 8853,
+      "regular_session_rows": 3900,
+      "complete_sessions": 10,
+      "excluded_incomplete_sessions": 0
+    }
+  ]
+}

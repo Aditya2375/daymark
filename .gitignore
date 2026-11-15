@@ -1,0 +1,16 @@
+build/
+*.class
+node_modules/
+.env*
+*.key
+*.pem
+*.p12
+*.jks
+*private*
+*.zip
+*.png
+evidence/
+# Deny vendor/raw CSVs by default. Only derived shares are public.
+*.csv
+!web/data/shares.csv
+!docs/data/shares.csv

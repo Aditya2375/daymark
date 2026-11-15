@@ -1,0 +1,14 @@
+daymark
+Copyright 2026 Aditya Kulkarni
+Original code and derived analysis: MIT OR Apache-2.0.
+
+Derived analysis uses FirstRate Data's free SPY and AAPL historical samples.
+Source: https://firstratedata.com/free-intraday-data
+Underlying data license: https://firstratedata.com/about/license
+Raw OHLCV is not included or relicensed. No vendor endorsement is implied.
+
+Conceptual reference:
+Torben G. Andersen and Tim Bollerslev (1997), Intraday periodicity and
+volatility persistence in financial markets, Journal of Empirical Finance
+4(2-3), 115-158. https://doi.org/10.1016/S0927-5398(97)00004-2
+No paper text, figures or model implementation are copied.
